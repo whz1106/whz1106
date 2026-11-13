@@ -4,8 +4,7 @@ English | [中文](#zh)
 
 <img align="right" width="200" src="https://avatars.githubusercontent.com/u/166468602?v=4" alt="Haozhe Wang">
 
-I am from China, currently working at [北京容芯致远](https://github.com/rongxinzy), mainly engaged in LLM / Agent engineering.
-I studied Computer Science at Yanshan University (燕山大学), and I'm based in Beijing.
+I am from China. After graduating from Yanshan University (燕山大学) in Computer Science, I now work full-time at [北京容芯致远](https://github.com/rongxinzy), mainly engaged in LLM / Agent engineering, and I'm based in Beijing.
 
 I care about AI Native and AI Engineering, and I like turning those ideas into systems that actually work.
 
@@ -24,8 +23,7 @@ You can find my [resume](https://resume-lyart-chi-68.vercel.app), [blog](https:/
 
 [English](#en) | 中文
 
-我来自中国，目前在[北京容芯致远](https://github.com/rongxinzy)做 LLM / Agent 工程相关的工作。
-我在燕山大学学习计算机科学与技术，现居北京。
+我来自中国，已从燕山大学计算机科学与技术专业毕业，现于[北京容芯致远](https://github.com/rongxinzy)全职从事 LLM / Agent 工程相关工作，现居北京。
 
 我关注 AI Native 与 AI Engineering，也喜欢把这些想法做成能真正跑起来的系统。
 
